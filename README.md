@@ -23,8 +23,9 @@ We train an autoencoder neural network on the MNIST dataset to reconstruct clean
 - Successfully learned to reconstruct clean digits from noisy inputs
 
 ## 🖼️ Sample Output
+![AAI](https://github.com/user-attachments/assets/d40e23af-fc93-4f62-8820-75dde1339129)
 
-_(You can include your own screenshot or use `plt.savefig()` to generate one automatically!)_
+
 
 ## 📁 Dataset
 - [MNIST Handwritten Digits](http://yann.lecun.com/exdb/mnist/)
